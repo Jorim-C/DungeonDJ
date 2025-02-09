@@ -1,0 +1,16 @@
+("he shoots his postol", "pos"),
+("thunder strikes", "pos"),
+("he draws his sword", "pos")
+("you hear an eagle overhead", "pos")
+("the sound of dripping water", "pos")
+("you hear a crashing sound", "pos")
+("you hear nothing","neg")
+("overhwelming silence engulfs you", "pos")
+("i feel very good about these beers.", "neg"),
+("this is my best work.", "neg"),
+("what an awesome view", "neg"),
+("i do not like this restaurant", "neg"),
+("i am tired of this stuff.", "neg"),
+("I can't deal with this", "neg"),
+("he is my sworn enemy!", "neg"),
+("my boss is horrible.", "neg"),
